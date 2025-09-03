@@ -1,0 +1,12 @@
+{
+  "name": "Rainfall Dusk",
+  "author": "Andrew",
+  "description": "Background-only theme with a moody twilight road image",
+  "background": {
+    "image": "https://i.imgur.com/n1WNeOb.png",
+    "opacity": 0.2,
+    "blur": false,
+    "position": "center",
+    "size": "cover"
+  }
+}
